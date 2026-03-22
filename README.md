@@ -15,8 +15,6 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 
 ---
 
-##  Key Insights
-
 ## Key Insights
 
 - Sales show a declining trend over time  
