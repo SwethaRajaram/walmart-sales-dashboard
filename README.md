@@ -17,15 +17,13 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 
 ##  Key Insights
 
-* Sales show a declining trend over time
-* Los Angeles is the top-performing city
-* Profit margin is around 30%
-* Payment methods are evenly distributed
-* Forecast captures overall trend but misses spikes
-* Total sales: *1.59M*
-* Profit: *476K*
-* Profit Margin: *30%*
-* Los Angeles is top-performing city
+## Key Insights
+
+- Sales show a declining trend over time  
+- Los Angeles is the top-performing city  
+- Profit margin is approximately 30%  
+- Payment methods are evenly distributed  
+- Product-level performance varies significantly  
 
 ---
 
@@ -55,14 +53,12 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 
 ---
 
-##  Business Impact
 
-This project helps in:
+## Business Impact
 
-* Demand forecasting
-* Inventory planning
-* Identifying top-performing regions
-* Improving decision-making
+- Helps identify top-performing cities and products  
+- Supports data-driven decision-making  
+- Enables better understanding of sales and profit trends  
 
 ---
 
