@@ -9,7 +9,6 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 ##  Tools Used
 
 * Excel → Data Cleaning & Preprocessing
-* Python → Data Analysis & Forecasting (ARIMA)
 * Power BI → Interactive Dashboard
 
 ---
@@ -34,11 +33,13 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 
 ---
 
-##  Forecasting Approach
+## Data Analysis Approach
 
-* Converted data into time series format
-* Built ARIMA model for forecasting
-* Evaluated model using RMSE
+* Cleaned and transformed raw sales data using Excel
+* Performed exploratory data analysis to identify trends
+* Built an interactive Power BI dashboard
+* Visualized key business metrics such as sales, profit, and city performance
+ 
 
 ---
 
