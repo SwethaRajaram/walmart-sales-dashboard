@@ -1,4 +1,4 @@
-#  Walmart Sales Analysis & Forecasting Dashboard
+#  # Walmart Sales Analysis Dashboard
 
 ##  Project Overview
 
