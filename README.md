@@ -56,7 +56,12 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 
 - Helps identify top-performing cities and products  
 - Supports data-driven decision-making  
-- Enables better understanding of sales and profit trends  
+- Enables better understanding of sales and profit trends
+
+
+  ## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ---
 
