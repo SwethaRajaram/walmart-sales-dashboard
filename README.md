@@ -59,6 +59,8 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 - Enables better understanding of sales and profit trends
 
 
+## Dashboard Preview
 
+!(images/dashboard.png)
 ---
 
